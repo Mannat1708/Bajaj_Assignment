@@ -38,7 +38,7 @@ Build and host a REST API (`POST /bfhl`) that:
 
 ## Live API URL
 
-> [https://bajaj-assignment-aakd.onrender.com/l]
+> [https://bajaj-assignment-aakd.onrender.com/bfhl]
 
 
 ---
